@@ -1,5 +1,7 @@
-step1-
+Step1-
+
 pip install bert-serving-server
+
 pip install -U bert-serving-client
 
 Step2-
