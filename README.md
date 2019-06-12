@@ -12,10 +12,13 @@ https://github.com/google-research/bert/blob/master/multilingual.md
 
 
 Step3- go to the folder where the pre-trained model was downloaded and start the server
+
 bert-server-start -model_dir ./multi_cased_L-12_H-768_A-12/ -num_worker=1
 
 Step4- open a terminal in python ( in the same directory where you qna_example.py script is located)
+
 python qna_example.py 
+
 Key in your query ( in Swedish )
 
 Note: the qna.txt is extracted from this link-
