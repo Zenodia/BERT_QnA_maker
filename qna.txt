@@ -1,0 +1,35 @@
+﻿Q: Hur aktiverar jag mina Office-produkter?
+A: Klicka på länkarna nedan för mer information om aktivering av Office-produkter
+
+Q: Vad händer när nedladdningen är slutförd?
+A: När nedladdningen slutförts går du till platsen där du sparade filen och dubbelklickar på filikonen för att starta installationen.
+
+Q: Hur får jag support?
+A: ring 020 120 32 05
+
+Q: Vad är en ”incident”?
+A: En "incident" är ett enskilt supportproblem och de rimliga åtgärder som krävs för att lösa problemet. 
+
+Q: Kan man använda mobiler ihop med Teams?
+A: Självklart! Du kan via Teamsklienten få det att ringa ut på mobiltelefonen. 
+
+Q: Kan man spela in samtal?
+A: Ja, samtalsinspelning kan göras med hjälp av tredjepartsapplikation för externa samtal. 
+
+Q:  Växelfunktioner?
+A: Ja självklart.
+
+Q: Kan man integrera sin mail i Teams?
+A: Det finns idag en integration via ”butiken” i Teams för e-post men inget officiellt tillägg från Microsoft.
+
+Q: Hur starta man en gruppchatt
+A: Välj ny chatt i Teams längst upp i Teams.
+
+Q: Hur Lägga jag till personer i konversationen
+A: klickar du på Lägg till personer 
+
+Q: Hur kan jag ta bort en chatt i grupper ?
+A: Det är bra om du rensar upp i röran. Även om du inte kan ta bort chattkonversationer just nu, så jobbar vi på det. Håll ögonen öppna.
+
+Q: Hur skapa man emoji ?
+A: Emoji är ett bra sätt att lägga till några bra i kommunikationen! Klicka på Emoji
